@@ -1,27 +1,23 @@
-# Automated testing with Cypress and Cucumber for the 'todomvc.com' application
+# Automated Testing with Cypress and Cucumber 🥒
 ## 1. Clone the repository:
 ```bash
-git clone xxxxx
+git clone https://github.com/hiagoagil/Todo_application.git
 ```
-## 2. installing the dependencies:
+## 2. Installing All Dependencies:
 
-Running the command below will install the Node.Js dependencies and Cypress together.
+Execute the following command to install all necessary dependencies, including those related to Node.js, Cypress, Cucumber, and Faker.js, present in the project:
 
 ```bash
-npm install cypress
-```
-To complete all tests, it is necessary to install faker.js using the command below:
-```bash
-npm install @faker-js/faker
+npm install
 ```
 
-## 3. Project overview:
+## 3. Project Overview:
 
-This project is behavior-oriented (BDD) to facilitate understanding by the entire team, including those who are not familiar with technical language. Use Gherkin in conjunction with Pepino to enable test automation in Cypress.
+This project follows the Behavior-Driven Development (BDD) methodology to make it more accessible to the entire team, including those unfamiliar with technical terminology. The combination of Gherkin with Cucumber has been employed to enable test automation in the Cypress environment.
 
-The application chosen was 'todomvc.com', in which the tests can be viewed through the interface, using Cypress.
+The chosen application is 'todomvc.com', allowing the visualization of tests through an intuitive interface, facilitating interaction with Cypress. This approach not only promotes effectiveness in test execution but also strengthens collaborative understanding of the project.
 
-## 4. Directory structure
+## 4. Directory Structure
 - **cypress/**
   - Contains configuration files and Cypress test scripts.
 
@@ -53,7 +49,8 @@ To view the tests through the Cypress graphical interface, you must execute the 
 npx cypress open
 ```
 
-## Contacto 
+## Contact ✉️
 
-- **Email:** [hiagoqagil@gmail.com](mailto:your-email@example.com)
-- **LinkedIn:** [Hiago Gil](www.linkedin.com/in/hiago-gil-b94169166)
+- **Email:** [hiagoqagil@gmail.com](mailto:hiagoqagil@gmail.com)
+- **LinkedIn:** [Hiago Gil](https://www.linkedin.com/in/hiago-gil-b94169166)
+- **GitHub:** [Hiago Gil](https://github.com/hiagoagil)
