@@ -51,6 +51,6 @@ npx cypress open
 
 ## Contact ✉️
 
-- **Email:** [hiagoqagil@gmail.com](mailto:hiagoqagil@gmail.com)
+- **Email:** [emaildoqa@atlanteti.com](mailto:emaildoqa@atlanteti.com)
 - **LinkedIn:** [Hiago Gil](https://www.linkedin.com/in/hiago-gil-b94169166)
 - **GitHub:** [Hiago Gil](https://github.com/hiagoagil)
